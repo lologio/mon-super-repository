@@ -1,0 +1,65 @@
+#container {
+  display: flex;
+  height: 100%;
+}
+.centered-block {
+  display: block;
+  margin: 0 auto;
+}
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0px !important;
+}
+.zone1 {
+  width: 39%;
+  background-color: #8d807f;
+}
+.nom {
+  color: #fff !important;
+  margin: 20px;
+}
+.Logiciels {
+  color: #fff !important;
+  margin: 40% 10% 10% 24%;
+}
+.Langues {
+  color: #fff !important;
+  margin: 21% 10% 0% 24%;
+}
+#GPSpoint {
+  width: 20px;
+}
+#phone {
+  width: 20px;
+}
+#Mail {
+  width: 25px;
+}
+.zone2 {
+  width: 100%;
+}
+#Photo {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 400px;
+  height: 320px;
+}
+.CV {
+  color: #fff !important;
+  position: absolute;
+  top: 50px;
+  right: 385px;
+  padding-top: 2px;
+  padding-right: 10px;
+  padding-bottom: 2px;
+  padding-left: 10px;
+  background-color: rgb(116, 9, 9);
+}
+.Formation {
+  margin: 40% 10% 10% 5%;
+}
+.XP {
+  margin: 10% 10% 10% 5%;
+}
